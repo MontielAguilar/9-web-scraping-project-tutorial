@@ -21,5 +21,3 @@ Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar 
 ## 📝 Instrucciones
 
 Lee el contenido del fichero `./INSTRUCTIONS.es.md` que contiene los pasos para completar el proyecto, síguelos y desarrolla la solución primero en `./src/explore.ipynb` para hacer pruebas y después pasa el código limpio a `./src/app.py`. Asegúrate de eliminar el notebook una vez ya no lo necesites para mantener el proyecto limpio y ordenado.
-
-> NOTA: Solución: https:/https://github.com/4geeksacademy/web-scraping-project-tutorial/blob/main/src/solution.ipynb
